@@ -11,7 +11,7 @@ which can be found in **UCI HAR Dataset**. The only differences are:
   averaged for each group (Subject/Activity combination).
    
 Description:  
-* 't'/'f' - the first letter indicates the domain of signal ('t' for time-domain, 'f' for frequency domain).  
+* 't'/'f' - the first letter indicates the domain of signal ('t' for time domain, 'f' for frequency domain).  
 * 'Body'/'Gravity' - isolated signals for body and gravity.  
 * 'Acc'/'Gyro' - 'Acc' is linear acceleration, and 'Gyro' is angular speed.  
 * 'Jerk' - Jerk signals, obtained by deriving the body linear acceleration and angular velocity in time.  
